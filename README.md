@@ -12,3 +12,6 @@
   * Non-numeric inputs (e.g., `a + b`)
   * Division by zero
 - Option to perform multiple calculations in a loop
+## Author
+ Yunuscan Taşdemir - A beginner Java developer learning through fun projects.
+
