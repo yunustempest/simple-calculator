@@ -1,8 +1,8 @@
 # simple-calculator
  A simple console-based calculator built with Java that performs basic arithmetic operations.
 ## Description
- This project is a command-line calculator that takes a single-line input in the format "number, operator, number" ("3 + 5") and returns the result. It supports  
- addition, subtraction, multiplication, division, and exponent with error handling for invalid inputs and division by zero.
+ This project is a command-line calculator that takes a single-line input in the format "number, operator, number" ("3 + 5") and returns the result. 
+ It supports addition, subtraction, multiplication, division, and exponent with error handling for invalid inputs and division by zero.
 # Features
 - Single-line input ( `3.5 + 2.7`)
 - Supported operations: +, -, *, /, ^
